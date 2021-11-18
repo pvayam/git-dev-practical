@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 appended some lines to merge.txt
+=======
+replacing the content of this file to merge later
+>>>>>>> merge_branch
